@@ -1,0 +1,7 @@
+Input 1: Tôi tên là Nguyễn Vân A sống ở HCM
+Input 2: Nguyễn Văn A sinh ra ở Hà Nội và hiện đang sống tại TP Hồ Chí Minh.
+Input 3: Công ty FPT được thành lập vào ngày 13 tháng 9 năm 1988.
+Input 4: Anh ấy vừa mua một chiếc ô tô với giá 850 triệu đồng.
+Input 5: Dự án này cần khoảng 200 kỹ sư để hoàn thành trong 3 năm.
+Input 6: Chủ tịch Nguyễn Văn Bình đã ký kết hợp đồng với Samsung tại Hà Nội.
+Input 7: Barack Obama was born in Honolulu, Hawaii.
